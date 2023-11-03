@@ -1,8 +1,5 @@
 # Projet Programmation fonctionnelle
  
-# Programmation Fonctionnelle
-
-# Projet
 
 ## 28 octobre 2023
 
